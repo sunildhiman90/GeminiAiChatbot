@@ -99,6 +99,8 @@ fun HomeScreen(
         mutableStateOf("")
     }
 
+    // We need to use Custom Saver here for Uri due to below error:
+    // java.lang.IllegalArgumentException: androidx.compose.runtime.snapshots.SnapshotStateList@8f9b2b7 cannot be saved using the current SaveableStateRegistry. The default implementation only supports types which can be stored inside the Bundle. Please consider implementing a custom Saver for this class and pass it to rememberSaveable().
     val imageUris = rememberSaveable(saver = UriCustomSaver()) {
         mutableStateListOf()
     }
