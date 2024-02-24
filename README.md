@@ -5,18 +5,17 @@ GeminiAiChatbot is an app built using Kotlin and Jetpack Compose. It demonstrate
 ## Libraries used
 
 * Jetpack Compose 
-* Generative AI Sdk
+* [Generative AI Android](https://github.com/google/generative-ai-android)
 
 ## Pre-requisites
 
 * Java JDK 17+
 * Latest stable version of Android Studio IDE
-* Latest XCode (for iOS)
 * Gemini API Key ([Click here](https://aistudio.google.com/app/apikey) to get it)
 
 ## Screenshot
 
-![Screenshot_20231217_171152.png](Screenshot_20231217_171152.png)
+![](https://github.com/sunildhiman90/GeminiAiChatbot/blob/main/Screenshot_20231217_171152.png | width=250)
 
 ## Setup
 
