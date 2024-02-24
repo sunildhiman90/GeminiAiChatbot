@@ -15,7 +15,7 @@ GeminiAiChatbot is an app built using Kotlin and Jetpack Compose. It demonstrate
 
 ## Screenshot
 
-![](https://github.com/sunildhiman90/GeminiAiChatbot/blob/main/Screenshot_20231217_171152.png | width=250)
+<img src="https://github.com/sunildhiman90/GeminiAiChatbot/blob/main/Screenshot_20231217_171152.png" data-canonical-src="https://github.com/sunildhiman90/GeminiAiChatbot/blob/main/Screenshot_20231217_171152.png" width="200" height="400" />
 
 ## Setup
 
