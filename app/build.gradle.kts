@@ -69,7 +69,7 @@ dependencies {
     debugImplementation("androidx.compose.ui:ui-tooling")
     debugImplementation("androidx.compose.ui:ui-test-manifest")
 
-    implementation("com.google.ai.client.generativeai:generativeai:0.1.1")
+    implementation("com.google.ai.client.generativeai:generativeai:0.8.0")
 
     implementation("io.coil-kt:coil-compose:2.5.0")
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0-rc02")
