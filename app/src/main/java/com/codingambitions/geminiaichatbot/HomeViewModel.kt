@@ -27,7 +27,7 @@ class HomeViewModel : ViewModel() {
         generativeModel = GenerativeModel(
             //modelName = "gemini-pro-vision",//This is deprecated now, use flash
             modelName = "gemini-1.5-flash-latest",
-            apiKey = com.codingambitions.geminiaichatbot.BuildConfig.apiKey,
+            apiKey = BuildConfig.apiKey,
             generationConfig = config
         )
     }
