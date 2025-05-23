@@ -116,7 +116,7 @@ fun HomeScreen(
         topBar = {
             TopAppBar(
                 title = { Text(text = "Gemini AI Chatbot") },
-                colors = TopAppBarDefaults.smallTopAppBarColors(
+                colors = TopAppBarDefaults.topAppBarColors(
                     containerColor = MaterialTheme.colorScheme.primary,
                     titleContentColor = MaterialTheme.colorScheme.onPrimary
                 )
